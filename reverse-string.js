@@ -14,5 +14,3 @@ var reverseString = function(s) {
     }
     return s;
 };
-
-console.log(reverseString(["1","2","3","4"]));
